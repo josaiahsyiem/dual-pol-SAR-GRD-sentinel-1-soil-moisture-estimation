@@ -86,24 +86,6 @@ A multi-seed evaluation was carried out across eight different station-based tra
 
 ---
 
-## Repository Structure
-
-```text
-smc-soil-moisture-retrieval/
-├── README.md
-├── requirements.txt
-├── notebook/
-│   └── smc_soil_moisture_retrieval.ipynb   # Main pipeline
-├── gee/
-│   └── SMC_Sentinel1_Preprocessing.js      # GEE preprocessing script
-├── results/
-│   └── predicted_vs_measured.png           # Scatter plot output
-└── data/
-    └── README.md                           # Data access instructions
-```
-
----
-
 ## Pipeline
 
 ```text
