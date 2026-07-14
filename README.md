@@ -1,4 +1,4 @@
-# Soil Moisture Retrieval from Sentinel-1 Dual-Pol SAR Data using Physics-Inspired Machine Learning
+# Soil Moisture Retrieval from Sentinel-1 Dual-Pol SAR Data using Physics-Inspired Machine Learning and Deep Learning
 
 ---
 
