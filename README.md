@@ -1,4 +1,4 @@
-# Soil Moisture Retrieval from Sentinel-1 SAR Data using Physics-Inspired Machine Learning
+# Soil Moisture Retrieval from Sentinel-1 Dual-Pol SAR Data using Physics-Inspired Machine Learning
 
 **Author:** Josaiah Syiem  
 **Institution:** Centre of Studies in Resources Engineering (CSRE), IIT Bombay  
